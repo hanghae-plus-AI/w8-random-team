@@ -1,0 +1,11 @@
+langchain
+streamlit
+langchain-community
+openai
+typing-extensions
+tiktoken
+unstructured
+unstructured[pdf]
+watchdog
+faiss-cpu
+neo4j
